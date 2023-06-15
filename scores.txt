@@ -165,3 +165,6 @@ Ola2: 78
 Ola: 40
 Agata1234: 78
 Agata1234: 27
+Ola: 11
+Ola: 360
+Ola: 7
